@@ -7,11 +7,14 @@ hero:
   tagline: 
   actions:
     - theme: brand
-      text: 安装
-      link: /zh-CN/guide/element-plus/
-    - theme: alt
-      text: 在GitHub中查看
-      link: https://github.com/xuanmaihaier/ipharmacare-ui-vitepress
+      text: Vue2:基于element-ui进行的拓展
+      link: http://10.1.1.161:9999/element-ui
+    - theme: brand
+      text: Angular
+      link: http://10.1.1.161:9999/web-angular
+    - theme: brand
+      text: Vue3:基于element-plus进行的拓展
+      link: http://10.1.1.161:9999/element-plus
 
 features:
   - title: 一致性

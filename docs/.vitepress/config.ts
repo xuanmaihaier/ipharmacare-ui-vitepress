@@ -12,12 +12,12 @@ export default defineConfig({
       'link',
       {
         rel: 'icon',
-        // href: '/public/image/logo.png'
+        href: '/public/image/favicon.ico'
       }
     ]
   ],
   themeConfig: {
-    logo: '/public/image/logo.png',
+    logo: '/image/logo.png',
     nav, // 配置导航栏
     sidebar, // 配置侧边菜单栏
     footer // 配置页脚
