@@ -12,7 +12,7 @@ export default defineConfig({
       'link',
       {
         rel: 'icon',
-        href: '/public/image/favicon.ico'
+        href: '/image/favicon.ico'
       }
     ]
   ],
