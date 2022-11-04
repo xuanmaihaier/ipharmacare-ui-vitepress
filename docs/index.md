@@ -14,7 +14,7 @@ hero:
       link: http://10.1.1.161:9999/web-angular
     - theme: brand
       text: Vue3:基于element-plus进行的拓展
-      link: http://10.1.1.161:9999/element-plus
+      link: http://10.1.1.161:9999/website-dist
 
 features:
   - title: 一致性
