@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Vue2:基于element-ui进行的拓展
-      link: http://stride.fun/element-ui-vue2
+      link: http://element-ui.stride.fun
     - theme: brand
       text: Angular
       link: http://10.1.1.161:9999/web-angular
